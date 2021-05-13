@@ -1,2 +1,2 @@
 # Thread-Shed
-A learning exercise in pythin for clearing up data, string and list manipulation 
+A learning exercise in python for clearing up data, string and list manipulation 
